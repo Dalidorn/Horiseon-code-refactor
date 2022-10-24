@@ -10,6 +10,6 @@ https://dalidorn.github.io/Horiseon-code-refactor/
 
 ### Screenshots
 
-![Screenshot](../assets/images/Screenshot1.PNG)
+![Landing Page](https://raw.githubusercontent.com/Dalidorn/Horiseon-code-refactor/main/assets/images/Screenshot1.PNG)
 
-![Screenshot](../assets/images/Screenshot2.PNG)
+![Main Info](https://raw.githubusercontent.com/Dalidorn/Horiseon-code-refactor/main/assets/images/Screenshot2.PNG)
